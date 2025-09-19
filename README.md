@@ -1,2 +1,1 @@
-# lab2-project
-lab2-project
+SVITLANA MANAGER OF THIS PROJECT
